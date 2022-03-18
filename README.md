@@ -1,3 +1,4 @@
+
 ![data](https://user-images.githubusercontent.com/86925273/159011740-fe382cd1-5d8f-4fbe-8d05-27a3a908f65c.jpeg)
 
 
@@ -23,8 +24,24 @@ Current version is 1.1.0
 # ✨Apk file
 
 [Data handler](https://www.mediafire.com/file/clldmyt38lvfpmy/Data_handler_1.0.apk/file)
+
+
 # ✨Screenshoot
 
++ ⭐️splash screen
+
+
+
+
+
+![Screenshot_2022 03 18_17 50 56 959](https://user-images.githubusercontent.com/86925273/159025909-2b457b80-6784-4987-89aa-33df770f174a.png)
+
+
+
+
+
+
++ ⭐️homepage
 
 
 
@@ -32,7 +49,22 @@ Current version is 1.1.0
 
 
 
+![Screenshot_2022 03 18_17 50 36 430](https://user-images.githubusercontent.com/86925273/159025971-11e3525b-b34e-4aff-a063-52834c16cb2c.png)
 
+
+
+
+
+
+
++ ⭐️add datd page
+
+
+
+
+
+
+![Screenshot_2022 03 18_17 50 43 473](https://user-images.githubusercontent.com/86925273/159025988-7dd7dae5-2641-4740-acc7-6518961bcd9b.png)
 
 
 
