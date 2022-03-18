@@ -17,13 +17,12 @@ This is a simple data handler android application that insert data into [google 
 
 # ✨Version
 
-Current version is 1.3.4
+Current version is 1.1.0
 
 
 # ✨Apk file
 
-[Data handler]
-
+[Data handler](link)
 # ✨Screenshoot
 
 
