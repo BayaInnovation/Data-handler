@@ -57,7 +57,7 @@ Current version is 1.1.0
 
 
 
-+ ⭐️add datd page
++ ⭐️add data page
 
 
 
