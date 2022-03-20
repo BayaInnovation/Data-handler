@@ -8,6 +8,11 @@
 This is a simple data handler android application that insert data into [google spreadsheet](https://docs.google.com/spreadsheets/d/1Bdc5sFIAU7rBctiJkUm0deIslKXrb0XhGYAlUOOebxY/edit#gid=0)  using [sheetdb API](https://sheetdb.io/api/v1/qxdjguao88gg1)
 + this app works only on android phones and android version 5+
 
+# ✨Technology used 
++ java
++ xml
+
+
 # ✨Development tool
 
 
