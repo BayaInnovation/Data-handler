@@ -36,13 +36,8 @@ Current version is 1.1.0
 + ⭐️splash screen
 
 
-
-
-
-![Screenshot_2022 03 18_17 50 56 959](https://user-images.githubusercontent.com/86925273/159025909-2b457b80-6784-4987-89aa-33df770f174a.png)
-
-
-
+<img align="center" alt="Behailu Getachew| ANDROID" width="250px" src="https://user-images.githubusercontent.com/86925273/159025909-2b457b80-6784-4987-89aa-33df770f174a.png" />
+ <br>
 
 
 
@@ -50,34 +45,23 @@ Current version is 1.1.0
 
 
 
+<img align="center" alt="Behailu Getachew| ANDROID" width="250px" src="https://user-images.githubusercontent.com/86925273/159025971-11e3525b-b34e-4aff-a063-52834c16cb2c.png" />
+ <br>
 
-
-
-
-![Screenshot_2022 03 18_17 50 36 430](https://user-images.githubusercontent.com/86925273/159025971-11e3525b-b34e-4aff-a063-52834c16cb2c.png)
-
-
-
-
-
-
+ 
 
 + ⭐️add data page
 
 
-
-
-
-
-![Screenshot_2022 03 18_17 50 43 473](https://user-images.githubusercontent.com/86925273/159025988-7dd7dae5-2641-4740-acc7-6518961bcd9b.png)
-
+<img align="center" alt="Behailu Getachew| ANDROID" width="250px" src="https://user-images.githubusercontent.com/86925273/159025988-7dd7dae5-2641-4740-acc7-6518961bcd9b.png" />
+ <br>
 
 
 
 + ⭐️Spredsheet
 
+<img align="center" alt="Behailu Getachew| ANDROID" width="250px" src="https://user-images.githubusercontent.com/86925273/159130649-e0a879f4-31ff-4ede-8b59-08a067d051ae.png" />
+ <br>
 
 
-
-![Screenshot (123)](https://user-images.githubusercontent.com/86925273/159130649-e0a879f4-31ff-4ede-8b59-08a067d051ae.png)
-
+ 
