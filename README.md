@@ -1,7 +1,17 @@
 
 ![data](https://user-images.githubusercontent.com/86925273/159011740-fe382cd1-5d8f-4fbe-8d05-27a3a908f65c.jpeg)
 
-
+<p align="center">
+    <img src="https://img.shields.io/github/stars/bayainnovation/Data-handler">
+    <img src="https://img.shields.io/github/forks/bayainnovation/Data-handler"> 
+    <br>
+    <img src="https://img.shields.io/github/languages/top/bayainnovation/Data-handler">
+    <img src="https://img.shields.io/github/last-commit/bayainnovation/Data-handler">
+    <br>
+    <img src="https://img.shields.io/github/issues/bayainnovation/Data-handler">
+    <img src="https://img.shields.io/github/issues-closed/bayainnovation/Data-handler">
+    <br>
+</p>
 
 # Data-handler
 
